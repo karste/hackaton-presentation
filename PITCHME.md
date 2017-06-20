@@ -24,7 +24,7 @@ Hvem har tatt dette i bruk?
 - Applikasjoner (web og native) kan importere JSON og vise animasjon
 
 
----?image=./img/test.png
+---?image=./img/white.png
 
 ### Litt kode
 
@@ -56,7 +56,7 @@ bodymovin.loadAnimation(params);
 ```
 
 ---?image=./img/test.png
-![Workflow](./img/lalalalaa.png)
+![Workflow](./img/illustration.png)
 
 ---
 
