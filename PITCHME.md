@@ -9,7 +9,6 @@ Enkel animasjon på alle plattformer :revolving_hearts:
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
 
-
 ---
 
 ### Workflow
@@ -59,5 +58,5 @@ bodymovin.loadAnimation(params);
 # DEMO
 
 Alle animasjoner på egen rest-server.
-    + Forenklet AB-testing
-    + Animasjonsinstrukser kan deles uavhengig av plattform
+- Forenklet AB-testing
+- Animasjonsinstrukser kan deles uavhengig av plattform
