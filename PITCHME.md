@@ -1,18 +1,17 @@
 # After Effects + Bodymovin + Lottie
 
-Animasjon på alle plattformer
+Enkel animasjon på alle plattformer
 
 ---
 
-### Hvem er vi? Hva gjorde vi?
+### Hva jobbet vi med?
+
+- Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
+- Lottie (Airbnb) + Bodymovin
 
 - Alexander Schipper (designer)
 - Eivind Wikheim (utvikler)
 - Karl Stenersen (utvikler)
-
----
-
-Hvem har tatt dette i bruk?
 
 ---
 
@@ -54,7 +53,7 @@ const params = {
 bodymovin.loadAnimation(params);
 ```
 
----?image=./img/test.png
+---?image=./img/white.png
 ![Workflow](./img/illustration.png)
 
 ---
