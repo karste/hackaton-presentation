@@ -19,7 +19,6 @@ Animasjon på alle plattformer
 - Eksponere JSON-fil via rest-api
 - Applikasjoner (web og native) kan importere JSON og vise animasjon
 
----
 
 ---?image=./img/test.png
 ![Workflow](./img/lalalalaa.png)
