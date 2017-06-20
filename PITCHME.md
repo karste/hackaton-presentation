@@ -4,6 +4,14 @@ Animasjon på alle plattformer
 
 ---
 
+### Hvem er vi? Hva gjorde vi?
+
+- Alexander Schipper (designer)
+- Eivind Wikheim (utvikler)
+- Karl Stenersen (utvikler)
+
+---
+
 ### Workflow
 
 - Animere i After Effects
