@@ -28,7 +28,7 @@ Hvem har tatt dette i bruk?
 
 ### Litt kode
 
-´´´xml
+```xml
 <com.airbnb.lottie.LottieAnimationView
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/animation_view"
@@ -39,12 +39,12 @@ Hvem har tatt dette i bruk?
     app:lottie_fileName="paraply.json"
     android:layout_below="@id/pin_input_field_layout"
     app:lottie_loop="true"/>
-´´´
+```
 
 ---
 ### Litt kode
 
-´´´
+```
 const params = {
     container: document.getElementById('bodymovin-umbrella'),
     renderer: 'svg',
@@ -53,6 +53,7 @@ const params = {
     animationData: json
 };
 bodymovin.loadAnimation(params);
+```
 
 ---?image=./img/test.png
 ![Workflow](./img/lalalalaa.png)
