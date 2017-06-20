@@ -12,6 +12,10 @@ Animasjon på alle plattformer
 
 ---
 
+Hvem har tatt dette i bruk?
+
+---
+
 ### Workflow
 
 - Animere i After Effects
@@ -19,6 +23,25 @@ Animasjon på alle plattformer
 - Eksponere JSON-fil via rest-api
 - Applikasjoner (web og native) kan importere JSON og vise animasjon
 
+
+---
+
+### Litt kode
+
+´´´
+<com.airbnb.lottie.LottieAnimationView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/animation_view"
+    android:layout_width="wrap_content"
+    android:layout_height="90dp"
+    android:layout_marginTop="20dp"
+    android:layout_centerHorizontal="true"
+
+    app:lottie_fileName="paraply.json"
+
+    android:layout_below="@id/pin_input_field_layout"
+    app:lottie_loop="true"/>
+´´´
 
 ---?image=./img/test.png
 ![Workflow](./img/lalalalaa.png)
