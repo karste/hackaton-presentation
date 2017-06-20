@@ -1,6 +1,6 @@
-# After Effects + Bodymovin + Lottie = :revolving_hearts:
+# After Effects + Bodymovin + Lottie
 
-Enkel animasjon på alle plattformer :revolving_hearts:
+Enkel animasjon på alle plattformer
 
 ---
 
@@ -56,7 +56,6 @@ bodymovin.loadAnimation(params);
 ---
 
 # DEMO
-
-Alle animasjoner på egen rest-server.
+- Alle animasjoner på egen rest-server.
 - Forenklet AB-testing
 - Animasjonsinstrukser kan deles uavhengig av plattform
