@@ -1,12 +1,10 @@
-# After Effects + Bodymovin + Lottie = :+1:
+# After Effects + Bodymovin + Lottie = :ok_hand:
 
 Enkel animasjon på alle plattformer
 
 ---
 
-###### Alexander Schipper (designer)
-###### Eivind Wikheim (utvikler)
-###### Karl Stenersen (utvikler)
+### Hva jobbet vi med?
 
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
