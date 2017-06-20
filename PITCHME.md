@@ -1,4 +1,4 @@
-# After Effects + Bodymovin + Lottie
+# After Effects + Bodymovin + Lottie = SANT
 
 Enkel animasjon på alle plattformer
 
