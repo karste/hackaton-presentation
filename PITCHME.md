@@ -41,6 +41,19 @@ Hvem har tatt dette i bruk?
     app:lottie_loop="true"/>
 ´´´
 
+---
+### Litt kode
+
+´´´
+const params = {
+    container: document.getElementById('bodymovin-umbrella'),
+    renderer: 'svg',
+    loop: 2,
+    autoplay: true,
+    animationData: json
+};
+bodymovin.loadAnimation(params);
+
 ---?image=./img/test.png
 ![Workflow](./img/lalalalaa.png)
 
