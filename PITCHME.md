@@ -4,14 +4,14 @@ Enkel animasjon på alle plattformer
 
 ---
 
-### Hva jobbet vi med?
+###### Alexander Schipper (designer)
+###### Eivind Wikheim (utvikler)
+###### Karl Stenersen (utvikler)
 
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
 
-######Alexander Schipper (designer)
-######Eivind Wikheim (utvikler)
-######Karl Stenersen (utvikler)
+
 
 ---
 
