@@ -4,11 +4,12 @@ Svg animasjon på alle plattformer
 
 ---
 
-### Flux Design
+### Workflow
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Animere i After Effects
+    + (Bodymovin eksportere JSON-fil)
+- Eksponere JSON-fil via rest-api
+- Applikasjoner (web og native) kan importere JSON og vise animasjon
 
 ---
 
