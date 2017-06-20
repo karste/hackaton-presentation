@@ -29,6 +29,7 @@ Hvem har tatt dette i bruk?
 ### Litt kode
 
 ```xml
+test
 <com.airbnb.lottie.LottieAnimationView
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/animation_view"
