@@ -24,12 +24,11 @@ Hvem har tatt dette i bruk?
 - Applikasjoner (web og native) kan importere JSON og vise animasjon
 
 
----
+---?image=./img/test.png
 
 ### Litt kode
 
 ```xml
-test
 <com.airbnb.lottie.LottieAnimationView
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/animation_view"
@@ -42,7 +41,7 @@ test
     app:lottie_loop="true"/>
 ```
 
----
+---?image=./img/test.png
 ### Litt kode
 
 ```
