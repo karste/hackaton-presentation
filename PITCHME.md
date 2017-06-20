@@ -1,6 +1,6 @@
-# After Effects + Bodymovin + Lottie = :ok_hand:
+# After Effects + Bodymovin + Lottie = :revolving_hearts:
 
-Enkel animasjon på alle plattformer
+Enkel animasjon på alle plattformer :revolving_hearts:
 
 ---
 
@@ -8,7 +8,6 @@ Enkel animasjon på alle plattformer
 
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
-
 
 
 ---
