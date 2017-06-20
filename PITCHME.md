@@ -1,6 +1,6 @@
 # After Effects + Bodymovin + Lottie
 
-An application architecture for React
+Svg animasjon på alle plattformer
 
 ---
 
