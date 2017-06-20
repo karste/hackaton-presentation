@@ -7,9 +7,9 @@ Enkel animasjon på alle plattformer
 ### Hva jobbet vi med?
 ###### (Alexander, Eivind, Karl M)
 - Vi har testet rammeverk som forenkler animasjon.
+- Lottie (Airbnb) + Bodymovin
 - Eksportering fra After Effects via plugin
 - Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
-- Lottie (Airbnb) + Bodymovin
 
 ---
 
