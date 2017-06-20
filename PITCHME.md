@@ -21,6 +21,7 @@ Animasjon på alle plattformer
 
 ---
 
+---?image=./img/test.png
 ![Workflow](./img/lalalalaa.png)
 
 ---
