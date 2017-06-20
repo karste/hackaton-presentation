@@ -1,4 +1,4 @@
-# Flux
+# After Effects + Bodymovin + Lottie
 
 An application architecture for React
 
