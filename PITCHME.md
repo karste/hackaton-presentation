@@ -36,9 +36,7 @@ Hvem har tatt dette i bruk?
     android:layout_height="90dp"
     android:layout_marginTop="20dp"
     android:layout_centerHorizontal="true"
-
     app:lottie_fileName="paraply.json"
-
     android:layout_below="@id/pin_input_field_layout"
     app:lottie_loop="true"/>
 ´´´
