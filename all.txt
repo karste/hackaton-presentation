@@ -13,6 +13,20 @@ Enkel animasjon på alle plattformer
 
 ---
 
+### Hvorfor?
+
+- Forenkling av animasjon, spesielt på android og ios
+- Animasjonsinstrukser kan deles uavhengig av plattform
+- Animasjon er gøy (og viktig):
+    + Tiltrekker oppmerksomhet
+    + Gir bruker hint
+    + Hjelper bruker til å orientere seg
+    + Gir feedback på det man gjør
+    + Gjør innhold enklere å konsumere
+    + Økt forståelse av innhold
+
+---
+
 ### Workflow
 
 - Animere i After Effects
