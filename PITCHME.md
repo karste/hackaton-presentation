@@ -5,6 +5,8 @@ Enkel animasjon på alle plattformer
 ---
 
 ### Hva jobbet vi med?
+###### (Alexander, Eivind, Karl M)
+
 
 - Animere i After Effects
     + Bodymovin plugin eksporterer JSON-fil
