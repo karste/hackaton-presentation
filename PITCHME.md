@@ -9,19 +9,22 @@ Enkel animasjon på alle plattformer
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
 
-- Alexander Schipper (designer)
-- Eivind Wikheim (utvikler)
-- Karl Stenersen (utvikler)
+Alexander Schipper (designer)
+Eivind Wikheim (utvikler)
+Karl Stenersen (utvikler)
 
 ---
 
 ### Workflow
 
 - Animere i After Effects
-    + Bodymovin eksportere JSON-fil
+    + Bodymovin plugin eksporterer JSON-fil
 - Eksponere JSON-fil via rest-api
 - Applikasjoner (web og native) kan importere JSON og vise animasjon
 
+
+---?image=./img/white.png
+![Workflow](./img/illustration.png)
 
 ---?image=./img/white.png
 ### ANDROID
@@ -53,8 +56,6 @@ const params = {
 bodymovin.loadAnimation(params);
 ```
 
----?image=./img/white.png
-![Workflow](./img/illustration.png)
 
 ---
 
