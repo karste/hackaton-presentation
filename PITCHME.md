@@ -25,8 +25,7 @@ Hvem har tatt dette i bruk?
 
 
 ---?image=./img/white.png
-
-### Litt kode
+### ANDROID
 
 ```xml
 <com.airbnb.lottie.LottieAnimationView
@@ -41,8 +40,8 @@ Hvem har tatt dette i bruk?
     app:lottie_loop="true"/>
 ```
 
----?image=./img/test.png
-### Litt kode
+---?image=./img/white.png
+### Javascript
 
 ```
 const params = {
