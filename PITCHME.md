@@ -5,7 +5,7 @@ Enkel animasjon på alle plattformer
 ---
 
 ### Hva jobbet vi med?
-###### Alexander, Eivind, Karl M
+###### (Alexander, Eivind, Karl M)
 
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
@@ -14,7 +14,8 @@ Enkel animasjon på alle plattformer
 
 ### Hvorfor?
 
-- Forenkling av animasjon, spesielt på native
+- Forenkling av animasjon, spesielt på android og ios
+- Animasjonsinstrukser kan deles uavhengig av plattform
 - Animasjon er gøy (og viktig):
     + Tiltrekker oppmerksomhet
     + Gir bruker hint
@@ -71,5 +72,4 @@ bodymovin.loadAnimation(params);
 
 # DEMO
 - Alle animasjoner på egen rest-server.
-- Forenklet AB-testing
-- Animasjonsinstrukser kan deles uavhengig av plattform
+- Forenklet AB-testing av animasjon
