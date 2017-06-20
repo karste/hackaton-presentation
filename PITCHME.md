@@ -10,6 +10,18 @@ Enkel animasjon på alle plattformer
 - Vi testet rammeverk som forenkler animasjon. Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
 - Lottie (Airbnb) + Bodymovin
 
+---
+
+### Hvorfor?
+
+- Forenkling av animasjon, spesielt på native
+- Animasjon er gøy (og viktig):
+    + Tiltrekker oppmerksomhet
+    + Gir bruker hint
+    + Hjelper bruker til å orientere seg
+    + Gir feedback på det man gjør
+    + Gjør innhold enklere å konsumere
+    + Økt forståelse av innhold
 
 ---
 
