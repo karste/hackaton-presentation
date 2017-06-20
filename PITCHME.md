@@ -71,5 +71,5 @@ bodymovin.loadAnimation(params);
 ---
 
 # DEMO
-- Alle animasjoner på egen rest-server.
+- Alle animasjoner på egen rest-server
 - Forenklet AB-testing av animasjon
