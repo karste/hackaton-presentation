@@ -41,6 +41,7 @@
     + Trenger store kunder?!
     + Kunden må skjønne behovet
 - Tverrfaglige UX (Mye UX i prosjekt uten teknisk-, domene- eller grafisk erfaring)
+- Lite datadrevet utvikling
 
 
 ---
