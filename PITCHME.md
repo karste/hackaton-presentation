@@ -30,7 +30,6 @@
     + Konverteringsrater
     + Kan vi hjelpe?
 
-
 - Hjelp til anbud
 - Hjelp i prosess med UU og PSD2
 
