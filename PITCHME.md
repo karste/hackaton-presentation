@@ -3,6 +3,8 @@
 
 ---
 
+### Hva trenger kunden mer av?
+
 - Tidligere innvolvering av "it-eksperter"
     + Vårt innsiktarbeid skiller seg fra kundens
     + Mere ideer
@@ -12,6 +14,7 @@
 - Mer tverrfaglighet
     + Kjøper også ferdige team med relasjoner
 
+---
 - Hjelp til kravspekk utifra kundens behov
 - Hjelp til testing av ferdige løsninger
 
@@ -26,6 +29,10 @@
 
 - Datastyrt
 - Hjelp til anbud
+
+---
+
+### Hvilke behov dekkes ikke av noen i dag?
 
 ---?image=./img/white.png
 ![Workflow](./img/illustration.png)
