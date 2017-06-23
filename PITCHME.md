@@ -18,9 +18,7 @@ Enkel animasjon på alle plattformer
 - Hjelp til testing av ferdige løsninger
 
 
-
-
-
+- Hjelp til anbud
 
 ---?image=./img/white.png
 ![Workflow](./img/illustration.png)
