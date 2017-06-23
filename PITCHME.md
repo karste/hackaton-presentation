@@ -22,13 +22,14 @@
     + Kontinuerlig teste løsninger
     + Uvikler løsningen seg med markedet, brukerbehov etc.
 
+
+---
+
 - Hjelp til datadrevet innsikt (Også relevant for forvaltning)
     + AB-testing
     + Konverteringsrater
     + Kan vi hjelpe?
 
-
----
 
 - Hjelp til anbud
 - Hjelp i prosess med UU og PSD2
@@ -52,9 +53,7 @@
 - Langsiktige sammarbeidsavtaler
 - Tverrfaglige team
 - Komme inn og analysere løsninger
-- Tverrfaglig UX
-
-
+- Tverrfaglig UX-konsulenter
 
 
 ---
