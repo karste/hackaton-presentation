@@ -27,8 +27,11 @@
     + Konverteringsrater
     + Kan vi hjelpe?
 
-- Datastyrt
+
+---
+
 - Hjelp til anbud
+- Hjelp i prosess med UU og PSD2
 
 ---
 
@@ -37,5 +40,22 @@
 - Forvaltning av UX
     + Trenger store kunder?!
     + Kunden må skjønne behovet
--
+- Tverrfaglige UX (Mye UX i prosjekt uten teknisk-, domene- eller grafisk erfaring)
+
+
 ---
+
+### Hvilke behov dekkes ikke av noen i dag?
+
+- Vi kan gjøre UX forvaltning
+    + Åpner for nye avtaler
+- Langsiktige sammarbeidsavtaler
+- Tverrfaglige team
+- Komme inn og analysere løsninger
+- Tverrfaglig UX
+
+
+
+
+---
+
