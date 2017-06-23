@@ -34,5 +34,8 @@
 
 ### Hvilke behov dekkes ikke av noen i dag?
 
----?image=./img/white.png
-![Workflow](./img/illustration.png)
+- Forvaltning av UX
+    + Trenger store kunder?!
+    + Kunden må skjønne behovet
+-
+---
