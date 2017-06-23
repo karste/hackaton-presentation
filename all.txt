@@ -6,28 +6,6 @@ Enkel animasjon på alle plattformer
 
 ### Hva jobbet vi med?
 ###### (Alexander, Eivind, Karl M)
-- Vi har testet rammeverk som forenkler animasjon.
-- Eksportering fra After Effects via plugin
-- Lottie (Airbnb) + Bodymovin
-- Instrukser for animasjon lagres i JSON-filer, og kan distribueres på valgfri måte.
-
----
-
-### Hvorfor?
-
-- Forenkling av animasjon, spesielt på android og ios
-- Animasjonsinstrukser kan deles uavhengig av plattform
-- Animasjon er gøy (og viktig):
-    + Tiltrekker oppmerksomhet
-    + Gir bruker hint
-    + Hjelper bruker til å orientere seg
-    + Gir feedback på det man gjør
-    + Gjør innhold enklere å konsumere
-    + Økt forståelse av innhold
-
----
-
-### Workflow
 
 - Animere i After Effects
     + Bodymovin plugin eksporterer JSON-fil

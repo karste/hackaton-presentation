@@ -4,51 +4,17 @@ Enkel animasjon på alle plattformer
 
 ---
 
-### Hva jobbet vi med?
-###### (Alexander, Eivind, Karl M)
+### Markedskrefter
+###### (Alexander, Tommy, Karl M)
 
-- Animere i After Effects
-    + Bodymovin plugin eksporterer JSON-fil
-- Eksponere JSON-fil via rest-api
-- Applikasjoner (web og native) kan importere JSON og vise animasjon
+---
+- Tidligere innvolvering av "it-eksperter"
+        + Vårt innsiktarbeid skiller seg fra deres
+- Forstå verdien av innsikt
+
+
+
 
 
 ---?image=./img/white.png
 ![Workflow](./img/illustration.png)
-
----?image=./img/white.png
-### ANDROID
-
-```xml
-<com.airbnb.lottie.LottieAnimationView
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/animation_view"
-    android:layout_width="wrap_content"
-    android:layout_height="90dp"
-    android:layout_marginTop="20dp"
-    android:layout_centerHorizontal="true"
-    app:lottie_fileName="paraply.json"
-    android:layout_below="@id/pin_input_field_layout"
-    app:lottie_loop="true"/>
-```
-
----?image=./img/white.png
-### Javascript
-
-```
-const params = {
-    container: document.getElementById('bodymovin-umbrella'),
-    renderer: 'svg',
-    loop: 2,
-    autoplay: true,
-    animationData: json
-};
-bodymovin.loadAnimation(params);
-```
-
-
----
-
-# DEMO
-- Alle animasjoner på egen rest-server
-- Forenklet AB-testing av animasjon
