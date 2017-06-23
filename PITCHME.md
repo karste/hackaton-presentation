@@ -46,7 +46,7 @@
 
 ---
 
-### Hvilke behov dekkes ikke av noen i dag?
+### Hvilke muligheter åpner dette?
 
 - Vi kan gjøre UX forvaltning
     + Åpner for nye avtaler
