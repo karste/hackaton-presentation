@@ -54,6 +54,7 @@
 - Tverrfaglige team
 - Komme inn og analysere løsninger
 - Tverrfaglig UX-konsulenter
+- Gjøre datadrevet utvikling
 
 
 ---
