@@ -17,7 +17,16 @@ Enkel animasjon på alle plattformer
 - Hjelp til kravspekk utifra kundens behov
 - Hjelp til testing av ferdige løsninger
 
+- UX Forvaltningsavtale
+    + Kontinuerlig teste løsninger
+    + Uvikler løsningen seg med markedet, brukerbehov etc.
 
+- Hjelp til datadrevet innsikt (Også relevant for forvaltning)
+    + AB-testing
+    + Konverteringsrater
+    + Kan vi hjelpe?
+
+- Datastyrt
 - Hjelp til anbud
 
 ---?image=./img/white.png
