@@ -1,8 +1,6 @@
 ### Markedskrefter
 ###### (Alexander, Tommy, Karl M)
 
-Enkel animasjon på alle plattformer
-
 ---
 
 - Tidligere innvolvering av "it-eksperter"
