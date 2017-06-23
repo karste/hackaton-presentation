@@ -1,13 +1,10 @@
-# After Effects + Bodymovin + Lottie
+### Markedskrefter
+###### (Alexander, Tommy, Karl M)
 
 Enkel animasjon på alle plattformer
 
 ---
 
-### Markedskrefter
-###### (Alexander, Tommy, Karl M)
-
----
 - Tidligere innvolvering av "it-eksperter"
     + Vårt innsiktarbeid skiller seg fra kundens
     + Mere ideer
