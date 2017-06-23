@@ -10,6 +10,8 @@ Enkel animasjon på alle plattformer
 ---
 - Tidligere innvolvering av "it-eksperter"
     + Vårt innsiktarbeid skiller seg fra kundens
+    + Mere ideer
+    + Større mulighetsrom for ferdig løsning
 - Forstå verdien av innsikt
 
 - Mer tverrfaglighet
