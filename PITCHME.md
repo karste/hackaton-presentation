@@ -1,61 +1,54 @@
-### Markedskrefter
-###### (Alexander, Tommy, Karl M)
+# After Effects + Bodymovin + Lottie
+
+Enkel animasjon på alle plattformer
 
 ---
 
-### Hva trenger kunden mer av?
+### Hva jobbet vi med?
+###### (Alexander, Eivind, Karl M)
 
-- Tidligere innvolvering av "it-eksperter"
-    + Vårt innsiktarbeid skiller seg fra kundens
-    + Mere ideer
-    + Større mulighetsrom for ferdig løsning
-- Forstå verdien av innsikt
-
-- Mer tverrfaglighet
-    + Kjøper også ferdige team med relasjoner
-
----
-- Hjelp til kravspekk utifra kundens behov
-- Hjelp til testing av ferdige løsninger
-
-- UX Forvaltningsavtale
-    + Kontinuerlig teste løsninger
-    + Uvikler løsningen seg med markedet, brukerbehov etc.
+- Animere i After Effects
+    + Bodymovin plugin eksporterer JSON-fil
+- Eksponere JSON-fil via rest-api
+- Applikasjoner (web og native) kan importere JSON og vise animasjon
 
 
----
+---?image=./img/white.png
+![Workflow](./img/illustration.png)
 
-- Hjelp til datadrevet innsikt (Også relevant for forvaltning)
-    + AB-testing
-    + Konverteringsrater
-    + Kan vi hjelpe?
+---?image=./img/white.png
+### ANDROID
 
-- Hjelp til anbud
-- Hjelp i prosess med UU og PSD2
+```xml
+<com.airbnb.lottie.LottieAnimationView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/animation_view"
+    android:layout_width="wrap_content"
+    android:layout_height="90dp"
+    android:layout_marginTop="20dp"
+    android:layout_centerHorizontal="true"
+    app:lottie_fileName="paraply.json"
+    android:layout_below="@id/pin_input_field_layout"
+    app:lottie_loop="true"/>
+```
 
----
+---?image=./img/white.png
+### Javascript
 
-### Hvilke behov dekkes ikke av noen i dag?
-
-- Forvaltning av UX
-    + Trenger store kunder?!
-    + Kunden må skjønne behovet
-- Tverrfaglige UX (Mye UX i prosjekt uten teknisk-, domene- eller grafisk erfaring)
-- Lite datadrevet utvikling
-
-
----
-
-### Hvilke muligheter åpner dette?
-
-- Vi kan gjøre UX forvaltning
-    + Åpner for nye avtaler
-- Langsiktige sammarbeidsavtaler
-- Tverrfaglige team
-- Komme inn og analysere løsninger
-- Tverrfaglig UX-konsulenter
-- Gjøre datadrevet utvikling
+```
+const params = {
+    container: document.getElementById('bodymovin-umbrella'),
+    renderer: 'svg',
+    loop: 2,
+    autoplay: true,
+    animationData: json
+};
+bodymovin.loadAnimation(params);
+```
 
 
 ---
 
+# DEMO
+- Alle animasjoner på egen rest-server
+- Forenklet AB-testing av animasjon
